@@ -76,8 +76,11 @@ a concentration of high attack stats and represent Pokemon with great offensive 
 This newfound knowledge allows trainers to make informed decisions when selecting teammates, considering the combination of attributes that fits their preferred combat strategy. You can identify Pokémon with balanced
 traits, or Pokémon with special strengths in certain areas.
 --------------------------------------------------------------------
-commit done again
-
+* The heatmap display shows a grid of color-coded cells, each representing the top 10 Pokémon. The X-axis shows the attributes (HP, Attack, Defense, Special Attack, Special Defense, and Speed) and the Y-axis shows the rank of those Pokémon.
+*The heatmap shows that the top Pokemon have high stats across multiple attributes. Pokémon at the top of the Y-axis (lower ranks) tend to have better stats, indicating their overall superiority in battle.
+* Some Pokémon are characterized by relatively balanced Trait Scores without extreme highs and lows. These versatile Pokémon sit in the middle of the Y axis, and their well-rounded stats prove that they can excel in a variety of situations.
+* On the other hand, certain Pokémon located at certain points along the Y axis specialize in certain attributes. For example, some Pokémon may have very high attack stats, but low HP and defense, and high attack power.
+* The heatmap's diverse colors reflect the wide range of strategies a trainer can employ. Some may prefer a completely offensive approach with Pokemon with high Attack and Speed, while others may opt for a defensive strategy with Pokemon with exceptional HP and Defense.  
 
 
 
